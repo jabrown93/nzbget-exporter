@@ -1,3 +1,4 @@
 # build artifacts
 /nzbget_exporter
 *.test
+.pi/
