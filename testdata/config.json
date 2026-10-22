@@ -1,0 +1,10 @@
+{
+  "version": "1.1",
+  "result": [
+    {"Name": "Server1.Name", "Value": "primary"},
+    {"Name": "Server1.Host", "Value": "news.primary.example"},
+    {"Name": "Server2.Host", "Value": "news.backup.example"},
+    {"Name": "Server3.Name", "Value": "unused"},
+    {"Name": "ArticleCache", "Value": "100"}
+  ]
+}
