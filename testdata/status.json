@@ -1,0 +1,9 @@
+{
+  "version": "1.1",
+  "result": {
+    "ThreadCount": 42,
+    "DownloadRate": 1048576,
+    "RemainingSizeLo": 2048,
+    "RemainingSizeHi": 0
+  }
+}

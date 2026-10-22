@@ -1,0 +1,8 @@
+{
+  "version": "1.1",
+  "result": [
+    {"ServerID": 0, "TotalSizeLo": 3072, "TotalSizeHi": 1},
+    {"ServerID": 1, "TotalSizeLo": 1024, "TotalSizeHi": 1},
+    {"ServerID": 2, "TotalSizeLo": 2048, "TotalSizeHi": 0}
+  ]
+}
