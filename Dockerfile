@@ -1,6 +1,6 @@
 # Static CGO_ENABLED=0 cross-compile on the DHI Go toolchain, scratch runtime,
 # nonroot.
-FROM --platform=$BUILDPLATFORM dhi.io/golang:1.27.3-alpine-dev@sha256:95894969dcf353c87cd1b9730e599e1d3c3b7519c8966d28120859609269df4d AS builder
+FROM --platform=$BUILDPLATFORM dhi.io/golang:1.27.4-alpine-dev@sha256:54b3a7cc4877c83aaf9b9272bd588f334cf3740fc394d35fbcf55308bd7af083 AS builder
 
 ARG TARGETOS
 ARG TARGETARCH
